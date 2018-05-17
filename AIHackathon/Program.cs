@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace AIHackathon //our badass PROJECTTTTTT
+namespace AIHackathon //our badass PROJECTTTTTT!!!!!
 {
     public class Program
     {
