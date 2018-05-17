@@ -5,6 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="IBM.WatsonDeveloperCloud" Version="2.2.1" />
+    <PackageReference Include="IBM.WatsonDeveloperCloud.Assistant.v1" Version="2.2.1" />
+    <PackageReference Include="IBM.WatsonDeveloperCloud.Conversation.v1" Version="2.2.1" />
+    <PackageReference Include="IBM.WatsonDeveloperCloud.Discovery.v1" Version="2.2.1" />
+    <PackageReference Include="IBM.WatsonDeveloperCloud.NaturalLanguageUnderstanding.v1" Version="2.2.1" />
+    <PackageReference Include="IBM.WatsonDeveloperCloud.SpeechToText.v1" Version="2.2.1" />
+    <PackageReference Include="IBM.WatsonDeveloperCloud.TextToSpeech.v1" Version="2.2.1" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.8" />
   </ItemGroup>
 
