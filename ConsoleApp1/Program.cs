@@ -10,7 +10,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            Console.WriteLine("Say something");
+
+            string response = Console.ReadLine();
+
+            Console.WriteLine("You just said " + response);
             Console.ReadKey();
         }
     }
