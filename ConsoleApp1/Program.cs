@@ -16,6 +16,7 @@ namespace ConsoleApp1
             string response = Console.ReadLine();
 
             Console.WriteLine("You just said " + response);
+            Console.WriteLine("Press any key to quit");
             Console.ReadKey();
         }
     }
